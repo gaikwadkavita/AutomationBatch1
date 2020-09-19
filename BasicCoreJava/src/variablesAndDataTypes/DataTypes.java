@@ -19,6 +19,8 @@ public class DataTypes {
 		
 		
 		
+		//primitive==>int, short, double, float, boolean, String, char, byte
+		//non-primitive==>classes, arrays, interfaces
 		
 
 	}
